@@ -437,7 +437,7 @@ export default function CampusSpace() {
           <div className="flex items-center gap-3 mb-4">
             <div className="w-10 h-10 bg-indigo-100 rounded-xl flex items-center justify-center text-indigo-700 font-bold text-sm">PG</div>
             <div>
-              <div className="font-semibold text-sm text-slate-800">Purab Gupta · B.Tech CSE, Sem 8</div>
+              <div className="font-semibold text-sm text-slate-800">Nachiket Patil · B.Tech CSE, Sem 7</div>
               <div className="text-xs text-slate-400">Today: Monday · 4 classes</div>
             </div>
           </div>
